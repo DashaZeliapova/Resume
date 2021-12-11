@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     font-weight: bolt;
     font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
     
 }
 .avatar{
@@ -14,3 +15,8 @@ border-radius: 48px;
 .name {
     line-height: 0.4;
 }
+
+
+
+
+
